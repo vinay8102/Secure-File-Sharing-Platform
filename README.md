@@ -12,11 +12,11 @@ The File-Share app provides a user-friendly interface for managing files. Users 
 
 ## Screenshots
 
-![Screenshot 3](/screenshots/home.png)
-![Screenshot 1](/screenshots/register.png)
-![Screenshot 2](/screenshots/login.png)
-![Screenshot 4](/screenshots/upload.png)
-![Screenshot 5](/screenshots/profile.png)
+![Screenshot 3](/screenshots/Screenshot 3.png)
+![Screenshot 1](/screenshots/Screenshot 2.png)
+![Screenshot 2](/screenshots/Screenshot 1.png)
+![Screenshot 4](/screenshots/Screenshot 4.png)
+![Screenshot 5](/screenshots/Screenshot 5.png)
 
 
 ## Project Purpose
