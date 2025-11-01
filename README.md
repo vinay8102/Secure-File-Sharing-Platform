@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Secure-File-Sharing-Platform
 Codec Technologies. Cyber Security Internship.
 =======
@@ -12,11 +12,11 @@ The File-Share app provides a user-friendly interface for managing files. Users 
 
 ## Screenshots
 
-![Screenshot 3](/screenshots/Screenshot 3.png)
-![Screenshot 1](/screenshots/Screenshot 2.png)
-![Screenshot 2](/screenshots/Screenshot 1.png)
-![Screenshot 4](/screenshots/Screenshot 4.png)
-![Screenshot 5](/screenshots/Screenshot 5.png)
+![Screenshot 3](/screenshots/home.png)
+![Screenshot 1](/screenshots/profile.png)
+![Screenshot 2](/screenshots/login.png)
+![Screenshot 4](/screenshots/uplload.png)
+![Screenshot 5](/screenshots/register.png)
 
 
 ## Project Purpose
@@ -58,4 +58,4 @@ This project is a learning and exploration project with Django. There are many i
 3. Set up your Django project and configure the database.
 4. Run the development server using `python manage.py runserver`.
 5. Open `http://localhost:8000` in your browser to access the app.
->>>>>>> 986a409 (Initial commit)
+
