@@ -10,14 +10,6 @@ The File-Share app is a secure file sharing platform that allows users to secure
 
 The File-Share app provides a user-friendly interface for managing files. Users can easily register, log in, and upload files. Uploaded files are securely stored and can be downloaded by the user or shared with other registered users. The app uses Django authentication for user registration, login, and logout, ensuring secure access to files. The Python cryptography library is used for hashing passwords and encrypting files, enhancing the security of user data. Additionally, the shutil library is used for file operations such as moving and copying files.
 
-## Screenshots
-
-![Screenshot 3](/screenshots/home.png)
-![Screenshot 1](/screenshots/profile.png)
-![Screenshot 2](/screenshots/login.png)
-![Screenshot 4](/screenshots/uplload.png)
-![Screenshot 5](/screenshots/register.png)
-
 
 ## Project Purpose
 
